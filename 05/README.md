@@ -20,11 +20,15 @@ Local and remote backups
 ## City-Geo-Location
 
 City Geo location
-[Rapid API](https://rapidapi.com/dev132/api/city-geo-location-lookup)
+[positionstack.com](http://www.positionstack.com)
 
 API to obtain the coordinates of one city in the database having a the name like a parameter
 
 City-geo-location-lookup - API
+
+## Weather API
+
+[openweathermap.com](http://www.popenweathermap.org)
 
 ### How to use
 
